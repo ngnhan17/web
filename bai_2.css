@@ -1,0 +1,71 @@
+#nav{
+   height: 30px;  
+}
+.clear{
+    clear:both;
+}
+#content{
+    width: 70%;
+    float: left;  
+
+}
+#about{
+    margin-left: 50px;
+}
+#nav>li{
+    display: inline-block;
+    padding: 14px;
+    padding-left: 39px;
+    padding-right: 39px;   
+}
+li.about{
+    background: rgb(237, 117, 4);
+    color: white;
+}
+img{
+  width: 100%;
+  padding-left: 19px;
+}
+.heading{
+    font-weight: 300;
+    color: rgb(237, 117, 4);
+}
+.text{
+    font-size: 20px;
+}
+a{
+    color: rgb(237, 117, 4);;
+}
+.contactus{
+    font-weight: 300;
+    color: rgb(125, 82, 6);
+    
+}
+a{
+   text-decoration: none;
+}
+#sidebar{
+   float: left;
+   width: 30%;
+   height: 100px;
+}
+h3{
+    
+    margin-bottom: 0;
+}
+p.title{
+    margin-top: 0;
+}
+.heading-sidebar{
+    font-weight: 300;
+    color: rgb(158, 192, 24);
+}
+.description1{
+    float: left;
+    color: #ccc;
+}
+.description2{
+    float: right;
+    color: #ccc;
+}
+

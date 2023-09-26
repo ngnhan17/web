@@ -1,0 +1,49 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#container{
+    width: 760px;
+    color: white;
+    /* canh giua trang web */
+    margin: 0px auto;
+}
+#mainmenu{
+    height: 30px;
+    background-color: red;
+    text-align: center;
+    line-height: 30px;
+}
+
+#header{
+    
+    height: 100px;
+    text-align: center;
+    height: 100px;
+    background-color: blue;
+    line-height: 100px;
+}
+
+#content{
+    width: 70%;
+    height: 250px;
+    background-color: green;
+    text-align: center;
+    line-height: 250px;
+    float: left;
+}
+
+#sidebar{
+    width: 30%;
+    margin-left: 70%;
+    height: 250px;
+    background-color: rgba(18, 105, 18, 0.5);
+    text-align: center;
+    line-height: 250px;
+}
+
+#footer{
+    height: 50px;
+    background-color: rgb(223, 223, 88);
+    text-align: center;
+    line-height: 50px;
+}
